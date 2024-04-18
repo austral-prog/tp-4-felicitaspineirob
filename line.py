@@ -17,4 +17,4 @@ def line():
 	print (f"\t P1 ({X2}, {Y2})\n")
 
 	eqn=math.sqrt(match.pow(X1 - X2,2)+match.pow(Y1 - Y2,2))
-			print (f"La distancia entre ellos: {enq}")
+	print (f"La distancia entre ellos: {enq}")
