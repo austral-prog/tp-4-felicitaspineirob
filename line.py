@@ -13,8 +13,8 @@ def line():
 	print (f"Dados los siguientes puntos: ")
 	Y1= A * X1 + B
 	Y2= A * X2 + B
-		print (f"\t P1 ({X1}, {Y1})")
-		print (f"\t P2 ({X2}, {Y2})\n")
+	print (f"\t P1 ({X1}, {Y1})")
+	print (f"\t P2 ({X2}, {Y2})\n")
 
 	eqn=math.sqrt(math.pow(X1-X2,2)+math.pow(Y1-Y2,2))
 		print (f"La distancia entre ellos: {eqn}")
